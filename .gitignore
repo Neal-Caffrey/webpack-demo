@@ -6,4 +6,4 @@ node_modules/
 **/*.map
 **/*.css.map
 npm-debug.log
-src/static
+/src/static/index.js
