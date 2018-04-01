@@ -1,5 +1,3 @@
-// this is my first express page
-
 var express = require('express');
 var app = express();
 
